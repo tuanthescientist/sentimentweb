@@ -1,0 +1,8 @@
+transformers
+torch
+nltk
+docx2txt
+pandas
+matplotlib
+openpyxl
+gradio
